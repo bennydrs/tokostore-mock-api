@@ -1,0 +1,1098 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 11 Baru ROM 64GB",
+      "description": "An apple mobile which is nothing like apple Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quae, pariatur autemiusto nam recusandae officiis enim modi eos? Minima quia ipsum dolores assumenda. Molestiae veritatis eveniet officia quas alias! Suscipit alias aliquid voluptatem et, tempore quaerat quibusdam aliquam iusto vero? Explicabo laboriosam perspiciatis corporis commodi, sunt suscipit, fugiat libero eius unde odit quas illum atque! <br><br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quae, pariatur autemiusto nam recusandae officiis enim modi eos? Minima quia ipsum dolores assumenda. Molestiae veritatis eveniet officia quas alias! Suscipit alias aliquid voluptatem et, tempore quaerat quibusdam aliquam iusto vero? Explicabo laboriosam perspiciatis corporis commodi, sunt suscipit, fugiat libero eius unde odit quas illum atque!",
+      "price": 16000000,
+      "discountPercentage": 2,
+      "rating": 4.69,
+      "stock": 94,
+      "productCategoryId": 6,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/iphone11-1.jpg?updatedAt=1690082623221",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/iphone11-1.jpg?updatedAt=1690082623221",
+        "https://ik.imagekit.io/rnng89maa/product/iphone11-2.jpg?updatedAt=1690082657227"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 1,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-04T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Sepatu Irine",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 250000,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 94,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/irene-kredenets-dwKiHoqqxk8-unsplash.jpg?updatedAt=1690082614088",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/irene-kredenets-dwKiHoqqxk8-unsplash.jpg?updatedAt=1690082614088"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 2,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-08-01T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Tumbler minum air",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 110000,
+      "discountPercentage": 8,
+      "rating": 4.8,
+      "stock": 94,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/curology-wK0h-mlvfuc-unsplash.jpg?updatedAt=1690082643027",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/curology-wK0h-mlvfuc-unsplash.jpg?updatedAt=1690082643027"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 1,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-08-01T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Macbook",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 17000000,
+      "discountPercentage": 1,
+      "rating": 4.6,
+      "stock": 94,
+      "productCategoryId": 10,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/macbook-1.jpg?updatedAt=1690082649272",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/macbook-1.jpg?updatedAt=1690082649272",
+        "https://ik.imagekit.io/rnng89maa/product/macbook-2.jpg?updatedAt=1690082653601"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 1,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-08-10T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Jam dinding putih hitam simpel",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 250000,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 94,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/kiran-ck-iuEfQe4ozpo-unsplash.jpg?updatedAt=1690082620180",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/kiran-ck-iuEfQe4ozpo-unsplash.jpg?updatedAt=1690082620180"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 2,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-08-11T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Sepatu Irine",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 250000,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 94,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/irene-kredenets-KStSiM1UvPw-unsplash.jpg?updatedAt=1690082636627",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/irene-kredenets-KStSiM1UvPw-unsplash.jpg?updatedAt=1690082636627"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 2,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-08-12T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Miniatur Mobil",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 250000,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 94,
+      "productCategoryId": 11,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/giorgio-trovato-pGeDU93n0fQ-unsplash.jpg?updatedAt=1690082596024",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/giorgio-trovato-pGeDU93n0fQ-unsplash.jpg?updatedAt=1690082596024"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 4
+      },
+      "shopId": 2,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-07-12T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Miniatur Mobil Putih",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 250000,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 94,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/giorgio-trovato-p0OlRAAYXLY-unsplash.jpg?updatedAt=1690082599827",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/giorgio-trovato-p0OlRAAYXLY-unsplash.jpg?updatedAt=1690082599827"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 20
+      },
+      "shopId": 2,
+      "cityName": "Jakarta Barat",
+      "createdAt": "2023-07-20T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Gameboy Color",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 150000,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 15,
+      "productCategoryId": 11,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/mike-meyers-v8XaVfyo41Q-unsplash.jpg?updatedAt=1690082648108",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/mike-meyers-v8XaVfyo41Q-unsplash.jpg?updatedAt=1690082648108"
+      ],
+      "GMStats": {
+        "transactionSuccess": 4,
+        "transactionReject": 2,
+        "countSold": 20
+      },
+      "shopId": 3,
+      "cityName": "Jakarta Timur",
+      "createdAt": "2023-07-10T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Kamera Lumix G5H",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 70075000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 20,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/subtle-cinematics-uHJeceRK89I-unsplash.jpg?updatedAt=1690082659105",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/subtle-cinematics-uHJeceRK89I-unsplash.jpg?updatedAt=1690082659105"
+      ],
+      "GMStats": {
+        "transactionSuccess": 22,
+        "transactionReject": 2,
+        "countSold": 22
+      },
+      "shopId": 4,
+      "cityName": "Jakarta Timur",
+      "createdAt": "2023-07-16T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Apple Watch",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 5000000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 20,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/daniel-korpai-hbTKIbuMmBI-unsplash.jpg?updatedAt=1690082593429",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/daniel-korpai-hbTKIbuMmBI-unsplash.jpg?updatedAt=1690082593429"
+      ],
+      "GMStats": {
+        "transactionSuccess": 22,
+        "transactionReject": 2,
+        "countSold": 22
+      },
+      "shopId": 1,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-12T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Kacamata hitam keren",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 120000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 200,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/giorgio-trovato-K62u25Jk6vo-unsplash.jpg?updatedAt=1690082619330",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/giorgio-trovato-K62u25Jk6vo-unsplash.jpg?updatedAt=1690082619330"
+      ],
+      "GMStats": {
+        "transactionSuccess": 35,
+        "transactionReject": 2,
+        "countSold": 35
+      },
+      "shopId": 4,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-12T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Apple Earpod",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 120000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 200,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/earpod-1.jpg?updatedAt=1690082581856",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/earpod-1.jpg?updatedAt=1690082581856",
+        "https://ik.imagekit.io/rnng89maa/product/earpod-2.jpg?updatedAt=1690082660081"
+      ],
+      "GMStats": {
+        "transactionSuccess": 35,
+        "transactionReject": 2,
+        "countSold": 35
+      },
+      "shopId": 1,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-12T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Sepatu Sneaker Nike Air Mike biru",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 320000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 200,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/alexander-rotker-l8p1aWZqHvE-unsplash.jpg?updatedAt=1690175230523",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/alexander-rotker-l8p1aWZqHvE-unsplash.jpg?updatedAt=1690175230523"
+      ],
+      "GMStats": {
+        "transactionSuccess": 35,
+        "transactionReject": 2,
+        "countSold": 35
+      },
+      "shopId": 1,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-12T12:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "Sepatu Lari Nike Hitam Ukuran 41",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 320000,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 0,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/imani-bahati-LxVxPA1LOVM-unsplash.jpg?updatedAt=1691373866174",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/imani-bahati-LxVxPA1LOVM-unsplash.jpg?updatedAt=1691373866174"
+      ],
+      "GMStats": {
+        "transactionSuccess": 20,
+        "transactionReject": 1,
+        "countSold": 20
+      },
+      "shopId": 3,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-12T12:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "Sepatu Nike Hijau Ukuran 41",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis assumenda doloremque odit temporibus ipsum nobis cumque praesentium consequatur id molestias, debitis officia fuga? Autem sint ex voluptatibus vel maxime aperiam.",
+      "price": 320000,
+      "discountPercentage": 10,
+      "rating": 4.9,
+      "stock": 12,
+      "productCategoryId": 4,
+      "weight": {
+        "value": 1000,
+        "unit": 1
+      },
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/usama-akram-kP6knT7tjn4-unsplash.jpg?updatedAt=1691375390319",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/usama-akram-kP6knT7tjn4-unsplash.jpg?updatedAt=1691375390319"
+      ],
+      "GMStats": {
+        "transactionSuccess": 20,
+        "transactionReject": 1,
+        "countSold": 20
+      },
+      "shopId": 3,
+      "cityName": "Jakarta Selatan",
+      "createdAt": "2023-08-12T12:00:00Z"
+    }
+  ],
+  "productCategories": [
+    {
+      "id": 1,
+      "name": "Anak",
+      "slug": "anak",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/kid.png?updatedAt=1695436851807"
+    },
+    {
+      "id": 2,
+      "name": "Buku",
+      "slug": "buku",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/book.png?updatedAt=1695436851798"
+    },
+    {
+      "id": 3,
+      "name": "Elektronik",
+      "slug": "elektronik",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/electronic.png?updatedAt=1695436851818"
+    },
+    {
+      "id": 4,
+      "name": "Fashion Pria",
+      "slug": "fashion-pria",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/fasion-man.png?updatedAt=1695436851789"
+    },
+    {
+      "id": 5,
+      "name": "Fashion Wanita",
+      "slug": "fashion-wanita",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/fasion-famale.png?updatedAt=1695436855787"
+    },
+    {
+      "id": 6,
+      "name": "Handphone & Tablet",
+      "slug": "handphone-tablet",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/handphone.png?updatedAt=1695436851572"
+    },
+    {
+      "id": 7,
+      "name": "Jam Tangan",
+      "slug": "jam-tangan",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/watch.png?updatedAt=1695436851764"
+    },
+    {
+      "id": 8,
+      "name": "Kebutuhan Rumah",
+      "slug": "kebutuhan-rumah",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/home-living.png?updatedAt=1695436851768"
+    },
+    {
+      "id": 9,
+      "name": "Kesehatan & Kecantikan",
+      "slug": "kesehatan-kecantikan",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/health.png?updatedAt=1695436851600"
+    },
+    {
+      "id": 10,
+      "name": "Komputer & Laptop",
+      "slug": "komputer-laptop",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/pc.png?updatedAt=1695436851794"
+    },
+    {
+      "id": 11,
+      "name": "Mainan",
+      "slug": "mainan",
+      "icon": "https://ik.imagekit.io/rnng89maa/tr:w-100,h-100/icons/toy.png?updatedAt=1695436851811"
+    }
+  ],
+  "digitalCategories": [
+    {
+      "id": "isi-ulang",
+      "title": "Isi Ulang",
+      "icon": "",
+      "description": "Bayar bioskop & langganan streaming"
+    },
+    {
+      "id": "tagihan",
+      "title": "Tagihan",
+      "icon": "",
+      "description": "Bayar tagihan anda disini"
+    }
+  ],
+  "digitalCategoryItems": [
+    {
+      "id": 1,
+      "name": "Pulsa",
+      "slug": "pulsa",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/Group%20123.png?updatedAt=1695459836195",
+      "digitalCategoryId": "isi-ulang"
+    },
+    {
+      "id": 2,
+      "name": "Paket Data",
+      "slug": "paket-data",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/Group%20122.png?updatedAt=1695459836280",
+      "digitalCategoryId": "isi-ulang"
+    },
+    {
+      "id": 6,
+      "name": "Token Listrik PLN",
+      "slug": "pln/token-listrik",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/Group%20124.png?updatedAt=1695459836217",
+      "digitalCategoryId": "isi-ulang"
+    },
+    {
+      "id": 7,
+      "name": "Voucher Game",
+      "slug": "voucher-game",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/Group%20120.png?updatedAt=1695459836157",
+      "digitalCategoryId": "isi-ulang"
+    },
+    {
+      "id": 3,
+      "name": "Tagihan Listrik PLN",
+      "slug": "pln/tagihan-listrik",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/Group%20125.png?updatedAt=1695459836182",
+      "digitalCategoryId": "tagihan"
+    },
+    {
+      "id": 4,
+      "name": "BPJS",
+      "slug": "bpjs",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/Group%20127.png?updatedAt=1695460140171",
+      "digitalCategoryId": "tagihan"
+    },
+    {
+      "id": 5,
+      "name": "Air PDAM",
+      "slug": "pdam",
+      "icon": "https://ik.imagekit.io/rnng89maa/icons/air.png?updatedAt=1695459993998",
+      "digitalCategoryId": "tagihan"
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "userId": 3,
+      "name": "Toko Apple",
+      "avatar": "https://github.com/shadcn.png",
+      "date_shop_created": "2022-09-24",
+      "domain": "tokoapple",
+      "provinceId": 6,
+      "provinceName": "DKI Jakarta",
+      "cityId": 153,
+      "cityName": "Jakarta Selatan"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "name": "Toko Mainan",
+      "avatar": "",
+      "date_shop_created": "2022-09-24",
+      "domain": "tokomainan",
+      "provinceId": 6,
+      "provinceName": "DKI Jakarta",
+      "cityId": 153,
+      "cityName": "Jakarta Selatan"
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "name": "Toko Sepatu",
+      "avatar": "",
+      "date_shop_created": "2022-09-24",
+      "domain": "tokosepatu",
+      "provinceId": 6,
+      "provinceName": "DKI Jakarta",
+      "cityId": 152,
+      "cityName": "Jakarta Selatan"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "name": "Hanya Untukmu",
+      "avatar": "",
+      "date_shop_created": "2022-09-24",
+      "domain": "hanyauntukmu",
+      "provinceId": 6,
+      "provinceName": "DKI Jakarta",
+      "cityId": 152,
+      "cityName": "Jakarta Selatan"
+    }
+  ],
+  "shopShowcases": [
+    {
+      "id": "1",
+      "title": "Semua Produk",
+      "highlighted": false,
+      "alias": "all-product",
+      "link": "",
+      "badge": ""
+    },
+    {
+      "id": "2",
+      "title": "Diskon",
+      "highlighted": false,
+      "alias": "discount",
+      "link": "",
+      "badge": ""
+    },
+    {
+      "id": "3",
+      "title": "Produk Terjual",
+      "highlighted": false,
+      "alias": "sold",
+      "link": "",
+      "badge": ""
+    }
+  ],
+  "shopShowcasesByShop": [
+    {
+      "id": "c11",
+      "title": "Iphone",
+      "highlighted": false,
+      "alias": "iphone",
+      "link": "",
+      "badge": "",
+      "shopId": 1
+    },
+    {
+      "id": "c12",
+      "title": "Macbook",
+      "highlighted": false,
+      "alias": "macbook",
+      "link": "",
+      "badge": "",
+      "shopId": 1
+    }
+  ],
+  "shopShowcaseProducts": [
+    {
+      "shopShowcasesByShopId": "c11",
+      "productId": 1
+    },
+    {
+      "shopShowcasesByShopId": "c12",
+      "productId": 4
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://ik.imagekit.io/rnng89maa/banner/Group%20116.jpg?updatedAt=1694405897755",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "image": "https://ik.imagekit.io/rnng89maa/banner/Group%20115.jpg?updatedAt=1694405897620",
+      "link": "/shop/tokomainan"
+    },
+    {
+      "id": 3,
+      "image": "https://ik.imagekit.io/rnng89maa/banner/Frame%20108.jpg?updatedAt=1694405897074",
+      "link": "/"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "productId": 1,
+      "shopId": 1,
+      "userId": 1,
+      "qty": 2,
+      "checkboxState": true
+    },
+    {
+      "id": 2,
+      "productId": 7,
+      "shopId": 2,
+      "userId": 1,
+      "qty": 1,
+      "checkboxState": false
+    },
+    {
+      "id": 3,
+      "productId": 4,
+      "shopId": 1,
+      "userId": 1,
+      "qty": 1,
+      "checkboxState": true
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "shopId": 2,
+      "userId": 2,
+      "qty": 1,
+      "checkboxState": true
+    },
+    {
+      "id": 5,
+      "productId": 15,
+      "shopId": 3,
+      "userId": 1,
+      "qty": 1,
+      "checkboxState": false
+    },
+    {
+      "id": 6,
+      "productId": 16,
+      "shopId": 3,
+      "userId": 1,
+      "qty": 1,
+      "checkboxState": false
+    },
+    {
+      "id": 1693621060783,
+      "productId": 11,
+      "shopId": 1,
+      "userId": 1,
+      "qty": 1,
+      "checkboxState": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Samsul",
+      "email": "samsul@mail.com",
+      "gender": "Pria",
+      "birthDay": "1996-04-04",
+      "phone": 6281234567890,
+      "avatar": ""
+    },
+    {
+      "id": 2,
+      "name": "Sayuti",
+      "email": "sayuti@mail.com",
+      "gender": "Pria",
+      "birthDay": "1996-04-04",
+      "phone": 6281234567890,
+      "avatar": ""
+    },
+    {
+      "id": 3,
+      "name": "Afkarun",
+      "email": "afkarun@mail.com",
+      "gender": "Pria",
+      "birthDay": "1996-04-04",
+      "phone": 6281234567890,
+      "avatar": ""
+    },
+    {
+      "id": 4,
+      "name": "Khoirul",
+      "email": "khoirul@mail.com",
+      "gender": "Pria",
+      "birthDay": "1996-04-04",
+      "phone": 6281234567890,
+      "avatar": ""
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "rating": 4,
+      "comment": "Barangnya bagus sesuai dengan gambar, packing juga bagus dan aman",
+      "userId": 2,
+      "createdAt": "2023-08-9T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "rating": 5,
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam earum culpa distinctio ea voluptatem voluptatum temporibus rerum, officiis magnam eligendi molestiae numquam. Et labore doloribus excepturi aliquam perspiciatis corporis unde.",
+      "userId": 3,
+      "createdAt": "2023-08-10T12:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "rating": 3,
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam earum culpa distinctio ea voluptatem voluptatum temporibus rerum, officiis magnam eligendi molestiae numquam. Et labore doloribus excepturi aliquam perspiciatis corporis unde.",
+      "userId": 4,
+      "createdAt": "2023-08-12T12:00:00.000Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1221,
+      "userId": 1,
+      "receiverName": "Sayuti",
+      "phone": "081234567777",
+      "label": "Lebakwangi",
+      "cityId": 78,
+      "cityName": "Kab. Bogor",
+      "districtName": "Cigudeg",
+      "provinceId": 12,
+      "provinceName": "Jawa Barat",
+      "country": "Indonesia",
+      "postalCode": 12345,
+      "address": "Kp. Lebakwangi entah, RT/RW. 001/002, Ds. Rengasjajar",
+      "isMain": true
+    },
+    {
+      "id": 1222,
+      "userId": 1,
+      "receiverName": "Bang Sayuti",
+      "phone": "081234567777",
+      "label": "Lebakwangi",
+      "cityId": 78,
+      "cityName": "Kab. Bogor",
+      "districtName": "Cigudeg",
+      "provinceId": 12,
+      "provinceName": "Jawa Barat",
+      "country": "Indonesia",
+      "postalCode": 12345,
+      "address": "Kp. Lebakwangi entah, RT/RW. 001/002, Ds. Rengasjajar",
+      "isMain": false
+    },
+    {
+      "id": 1696041167683,
+      "userId": 1,
+      "receiverName": "aaaaaa",
+      "phone": "08123456789",
+      "label": "rumah",
+      "cityId": 17,
+      "cityName": "Badung",
+      "provinceId": 1,
+      "provinceName": "Bali",
+      "postalCode": 80351,
+      "country": "Indonesia",
+      "address": "sddfd fdf dfdf fdf df dfd f",
+      "isMain": false
+    }
+  ],
+  "warehouses": [
+    {
+      "id": 12,
+      "shop_id": 2,
+      "warehouse_name": "Shop Location",
+      "cityName": "Jakarta Selatan",
+      "provinceName": "Jakarta",
+      "postal_code": "",
+      "latlon": "",
+      "latitude": "",
+      "longitude": "",
+      "email": "",
+      "address_detail": "",
+      "phone": "",
+      "warehose_type": "Default Shop Location"
+    }
+  ],
+  "searchHistories": [
+    {
+      "id": 2,
+      "name": "iphone",
+      "userId": 1,
+      "createdAt": "2023-10-12T02:32:05.738Z"
+    },
+    {
+      "id": 3,
+      "name": "asus rog",
+      "userId": 1,
+      "createdAt": "2023-10-02T02:22:22.634Z"
+    },
+    {
+      "id": 1695091176348,
+      "name": "miniatur",
+      "userId": 1,
+      "createdAt": "2023-09-19T02:58:20.614Z"
+    },
+    {
+      "id": 1695092097404,
+      "name": "kuda",
+      "userId": 1,
+      "createdAt": "2023-09-19T02:54:57.404Z"
+    }
+  ],
+  "searchSuggetions": [
+    {
+      "name": "iphone"
+    },
+    {
+      "name": "iphone 11"
+    },
+    {
+      "name": "jam"
+    },
+    {
+      "name": "macbook"
+    },
+    {
+      "name": "miniatur"
+    },
+    {
+      "name": "kamera"
+    },
+    {
+      "name": "apple"
+    },
+    {
+      "name": "apple watch"
+    },
+    {
+      "name": "kacamata"
+    },
+    {
+      "name": "sepatu"
+    },
+    {
+      "name": "earpod"
+    },
+    {
+      "name": "tumbler"
+    }
+  ],
+  "vouchers": [
+    {
+      "id": 1,
+      "voucherCode": "KUDA5",
+      "name": "Diskon 5%",
+      "discountPercentage": 5,
+      "expiry_count_down": 1693846799
+    },
+    {
+      "id": 2,
+      "voucherCode": "KUDA10",
+      "name": "Diskon 10%",
+      "discountPercentage": 10,
+      "expiry_count_down": 1693846799
+    }
+  ],
+  "paymentType": [
+    {
+      "id": 1,
+      "name": "Transfer Virtual Account"
+    },
+    {
+      "id": 2,
+      "name": "Transfer Bank"
+    },
+    {
+      "id": 3,
+      "name": "Dompet Digital"
+    },
+    {
+      "id": 4,
+      "name": "Tunai di Gerai Retail"
+    }
+  ],
+  "payments": [
+    {
+      "id": 1,
+      "name": "Transfer Bank BRI",
+      "alias": "bri",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/bank-bri.png?updatedAt=1693715056873",
+      "isActive": true,
+      "paymentTypeId": 2
+    },
+    {
+      "id": 2,
+      "name": "Transfer Bank BCA",
+      "alias": "bca",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/bca.png?updatedAt=1693715030981",
+      "isActive": true,
+      "paymentTypeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Transfer Bank Mandiri",
+      "alias": "mandiri",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/logo-mandiri.png?updatedAt=1693714985497",
+      "isActive": true,
+      "paymentTypeId": 2
+    },
+    {
+      "id": 4,
+      "name": "BRIVA",
+      "alias": "briva",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/briva.png?updatedAt=1693801811997",
+      "isActive": true,
+      "paymentTypeId": 1
+    },
+    {
+      "id": 5,
+      "name": "Mandiri Virtual Account",
+      "alias": "mandiri-va",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/logo-mandiri.png?updatedAt=1693714985497",
+      "isActive": true,
+      "paymentTypeId": 1
+    },
+    {
+      "id": 6,
+      "name": "OVO",
+      "alias": "ovo",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/ovo.png?updatedAt=1693802982052",
+      "isActive": true,
+      "paymentTypeId": 3
+    },
+    {
+      "id": 7,
+      "name": "Indomaret",
+      "alias": "indomaret",
+      "logo": "https://ik.imagekit.io/rnng89maa/toppay/indomaret.png?updatedAt=1693803027681",
+      "isActive": true,
+      "paymentTypeId": 4
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "status": {
+        "label": "Selesai",
+        "value": "selesai"
+      },
+      "userId": 1,
+      "shipmentId": 1,
+      "transactionId": 1,
+      "shopId": 1,
+      "createdAt": "2023-07-10T12:00:00Z"
+    }
+  ],
+  "orderItems": [
+    {
+      "id": 1,
+      "orderId": "1",
+      "title": "iPhone 11 Baru ROM 64GB",
+      "description": "An apple mobile which is nothing like apple Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quae, pariatur autemiusto nam recusandae officiis enim modi eos? Minima quia ipsum dolores assumenda. Molestiae veritatis eveniet officia quas alias! Suscipit alias aliquid voluptatem et, tempore quaerat quibusdam aliquam iusto vero? Explicabo laboriosam perspiciatis corporis commodi, sunt suscipit, fugiat libero eius unde odit quas illum atque! <br><br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quae, pariatur autemiusto nam recusandae officiis enim modi eos? Minima quia ipsum dolores assumenda. Molestiae veritatis eveniet officia quas alias! Suscipit alias aliquid voluptatem et, tempore quaerat quibusdam aliquam iusto vero? Explicabo laboriosam perspiciatis corporis commodi, sunt suscipit, fugiat libero eius unde odit quas illum atque!",
+      "price": 16000000,
+      "priceAfterDiscount": 15680000,
+      "quantity": 1,
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/iphone11-1.jpg?updatedAt=1690082623221",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/iphone11-1.jpg?updatedAt=1690082623221",
+        "https://ik.imagekit.io/rnng89maa/product/iphone11-2.jpg?updatedAt=1690082657227"
+      ],
+      "createdAt": "2023-07-10T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "orderId": "1",
+      "title": "Macbook",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 17000000,
+      "priceAfterDiscount": 16830000,
+      "quantity": 1,
+      "thumbnail": "https://ik.imagekit.io/rnng89maa/tr:w-250,h-250/product/macbook-1.jpg?updatedAt=1690082649272",
+      "pictures": [
+        "https://ik.imagekit.io/rnng89maa/product/macbook-1.jpg?updatedAt=1690082649272",
+        "https://ik.imagekit.io/rnng89maa/product/macbook-2.jpg?updatedAt=1690082653601"
+      ],
+      "createdAt": "2023-07-10T12:00:00Z"
+    }
+  ],
+  "shipments": [
+    {
+      "id": 1,
+      "shipmentName": "JNE",
+      "shipmentService": "JNE Regular",
+      "shippingRefNum": 894483479834,
+      "shippingPrice": 11000,
+      "receiver": {
+        "name": "Sayuti",
+        "phone": "081234567777",
+        "label": "Lebakwangi",
+        "city": "Kab. Bogor",
+        "district": "Cigudeg",
+        "province": "Jawa Barat",
+        "postalCode": 12345,
+        "address": "Kp. Lebakwangi entah, RT/RW. 001/002, Ds. Rengasjajar"
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "method": "BRIVA",
+      "status": "paid",
+      "paidAt": "2023-07-10T12:05:00Z",
+      "expiredAt": "",
+      "cancelledAt": ""
+    }
+  ]
+}
